@@ -1,1 +1,3 @@
-# SCM-Mini-Project
+# Gomok
+#I added something.
+fdafdaf
